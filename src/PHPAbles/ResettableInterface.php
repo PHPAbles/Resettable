@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PHPAbles\Resettable;
+namespace PHPAbles;
 
 use Monolog\ResettableInterface as BaseResettableInterface;
 
